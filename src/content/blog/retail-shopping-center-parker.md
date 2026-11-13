@@ -18,7 +18,7 @@ tags:
 readMinutes: 6
 
 featuredImage: /images/blog/retail-shopping-center-parker.webp
-featuredImageAlt: Exterior of a multi-tenant retail shopping center in Parker, Colorado at golden hour with storefronts and a fire department connection visible on the building facade.
+featuredImageAlt: Multi-tenant retail shopping center in Parker, CO with a fire department connection on the facade
 featuredImageCaption: A multi-tenant retail center in Parker — one building, one fire system, and a dozen parties who each assume someone else maintains it.
 ---
 

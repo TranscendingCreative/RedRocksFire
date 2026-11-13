@@ -18,7 +18,7 @@ tags:
 readMinutes: 7
 
 featuredImage: /images/blog/assisted-living-healthcare-lakewood.webp
-featuredImageAlt: Interior corridor of a modern assisted living facility in Lakewood, Colorado with a ceiling fire sprinkler head, smoke detector, and wall handrails visible.
+featuredImageAlt: Assisted living corridor in Lakewood, CO with a fire sprinkler head and smoke detector on the ceiling
 featuredImageCaption: A corridor in a Lakewood assisted living facility — sprinkler, detection, and a protected path built around occupants who can't self-evacuate.
 ---
 

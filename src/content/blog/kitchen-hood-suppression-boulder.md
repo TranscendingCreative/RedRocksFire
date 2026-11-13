@@ -18,7 +18,7 @@ tags:
 readMinutes: 6
 
 featuredImage: /images/blog/kitchen-hood-suppression-boulder.webp
-featuredImageAlt: A stainless steel commercial kitchen exhaust hood with wet-chemical fire suppression nozzles above a cooking line in a busy Boulder, Colorado restaurant.
+featuredImageAlt: Commercial kitchen hood with wet-chemical fire suppression nozzles over a cooking line in a Boulder, CO restaurant
 featuredImageCaption: A wet-chemical hood suppression system over a Boulder restaurant cooking line — nozzles aimed at each appliance, the configuration NFPA 96 and UL 300 govern.
 ---
 
