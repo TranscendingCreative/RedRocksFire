@@ -18,7 +18,7 @@ tags:
 readMinutes: 6
 
 featuredImage: /images/blog/inspection-report-arvada-ahj.webp
-featuredImageAlt: A fire protection inspector reviewing a detailed inspection report and deficiency list on a tablet beside a fire alarm panel in an Arvada, Colorado commercial building.
+featuredImageAlt: Inspector reviewing an inspection report on a tablet beside a fire alarm panel in Arvada, CO
 featuredImageCaption: Reviewing a deficiency list against the panel in an Arvada building — the report, not the walkthrough, is what the AHJ actually acts on.
 heroPosition: center top
 ---

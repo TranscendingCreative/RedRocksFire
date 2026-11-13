@@ -17,7 +17,7 @@ tags:
 readMinutes: 6
 
 featuredImage: /images/blog/fire-alarm-monitoring-aurora.webp
-featuredImageAlt: A technician testing a modern fire alarm control panel with status indicator lights on the wall of a commercial office building in Aurora, Colorado.
+featuredImageAlt: Technician testing a fire alarm control panel in a commercial office building in Aurora, CO
 featuredImageCaption: A monitored fire alarm control panel in an Aurora commercial building — the start of a signal chain that ends with Aurora Fire Rescue on the way.
 ---
 
