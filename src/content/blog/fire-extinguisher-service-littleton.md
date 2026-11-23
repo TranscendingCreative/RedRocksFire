@@ -18,7 +18,7 @@ tags:
 readMinutes: 6
 
 featuredImage: /images/blog/fire-extinguisher-service-littleton.webp
-featuredImageAlt: A row of red portable fire extinguishers being inspected and tagged by a technician's gloved hands in the back room of a Littleton, Colorado retail store.
+featuredImageAlt: Technician inspecting and tagging portable fire extinguishers at a Littleton, CO retail store
 featuredImageCaption: Portable extinguishers being serviced in a Littleton retail store — where the annual tag hides two longer deadlines most owners never track.
 ---
 

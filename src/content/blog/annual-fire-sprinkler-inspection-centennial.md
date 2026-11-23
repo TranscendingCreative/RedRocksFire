@@ -17,7 +17,7 @@ tags:
 readMinutes: 7
 
 featuredImage: /images/blog/annual-fire-sprinkler-inspection-centennial.webp
-featuredImageAlt: A fire protection inspector examining a wet-pipe sprinkler riser and pressure gauges with a flashlight during an annual inspection in a Centennial, CO commercial building.
+featuredImageAlt: Inspector checking a wet-pipe sprinkler riser and gauges during an annual inspection in Centennial, CO
 featuredImageCaption: Annual NFPA 25 sprinkler testing in a Centennial commercial building — the main drain test and valve check that a passing report is built on.
 heroPosition: center top
 ---
